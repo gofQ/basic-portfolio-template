@@ -27,7 +27,7 @@ This project was created with Vite, and the following technologies were used:
 - **`Portfolio`:** A page that provides information about the portfolio itself.
 
 ## Installation
-Öncelikle projeyi clonelayın.
+
 ```bash
 git clone https://github.com/gofQ/basic-portfolio-template.git
 cd basic-portfolio-template
