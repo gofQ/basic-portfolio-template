@@ -47,6 +47,9 @@ To use this portfolio, you need to clone this template to your own GitHub accoun
 ![Data.js](https://i.ibb.co/0jZ3p6w/data.png)
 ![Data.js](https://i.ibb.co/0jZ3p6w/data.png)
 
+## Contributing
+Did you found a bug or got an idea for a new feature? Feel free to use the [issue tracker](https://github.com/gofQ/basic-portfolio-template/issues) to let me know. Or make directly a [pull request](https://github.com/gofQ/basic-portfolio-template/pulls).
+
 ## About Me
 
 If you have any questions or suggestions about this portfolio, please don't hesitate to contact me. You can reach me using the following links:
