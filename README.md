@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 #  Basic Portfolio
 
 This portfolio is a simple template that you can use to showcase your work, skills, and experience. By using this template, you can create your own portfolio and use it to build a personal website.
 
-![Home](https://i.ibb.co/0jZ3p6w/data.png)
+![Home](https://github.com/gofQ/basic-portfolio-template/blob/main/src/img/home.png)
 
 ## Technologies Used in the Project
 
@@ -44,9 +43,9 @@ To use this portfolio, you need to clone this template to your own GitHub accoun
 
 ### Open the `data.js` file and add your own information. In this file, you can add your projects, skills, and experiences.
 
-![Data.js](https://i.ibb.co/0jZ3p6w/data.png)
-![Data.js](https://i.ibb.co/0jZ3p6w/data.png)
-![Data.js](https://i.ibb.co/0jZ3p6w/data.png)
+![Data.js](https://github.com/gofQ/basic-portfolio-template/blob/main/src/img/projects.png)
+![Data.js](https://github.com/gofQ/basic-portfolio-template/blob/main/src/img/portfolio.png)
+![Data.js](https://github.com/gofQ/basic-portfolio-template/blob/main/src/img/urinfo.png)
 
 ## Contributing
 Did you found a bug or got an idea for a new feature? Feel free to use the [issue tracker](https://github.com/gofQ/basic-portfolio-template/issues) to let me know. Or make directly a [pull request](https://github.com/gofQ/basic-portfolio-template/pulls).
@@ -59,4 +58,5 @@ E-mail: [mail](mailto:abdulkerimtabakoglu@gmail.com)
 
 #### This is my first repository. If you liked this project, please give it a ⭐️!
 
+## This template is released under the MIT License.
 [MIT](https://choosealicense.com/licenses/mit/)
