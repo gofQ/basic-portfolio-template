@@ -1,0 +1,138 @@
+@media screen and (max-width: 1536px ) {
+    #nameAnimation{
+        font-size: 1.25rem;
+    }
+    #img{
+        width: 9rem;
+    }
+
+    #copy{
+        font-size: 12px;
+    }
+    #workDiv{
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+@media  screen and (max-width: 1280px) {
+    #BarContainer{
+        padding-bottom: 0px;
+    }
+    #nameAnimation{
+        font-size: 1.15rem;
+    }
+    #navItem{
+        font-size: 1.1rem;
+        height: 3rem;
+    }
+    #copy{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    #nameAnimation{
+        font-size: 1.05rem;
+    }
+    #img{
+        width: 7rem;
+    }
+
+    #navItem{
+        font-size: 1rem;
+        height: 3rem;
+    }
+    #copy{
+        display: none;
+    }
+    #workDiv{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media screen and (max-width: 976px) {
+   #tab{
+    display: none;
+   }
+   #navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+   }
+   #RouterContainer{
+    flex-direction: column;
+   }
+   #Routes{
+    height: 100vh;
+   }
+   #projectGrid{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+   }
+}
+
+@media screen and (max-width:440px) {
+    #iconRes{
+        font-size: 20px;
+    }
+    #developerTextRes{
+        font-size: 14px;
+    }
+    #BarContainer{
+        padding-bottom: 4rem;
+    }
+    #aboutNameCon{
+        padding: 0;
+    }
+    #aboutName{
+        font-size: 1.3rem;
+    }
+    #aboutMail{
+        font-size: 1rem;
+        text-align: center;
+    }
+    #aboutImg{
+        width: 8rem;
+    }
+    #piCon, #pgSUA{
+        flex-direction: column;
+    }
+    #hd, #pgSecondaryHeader{
+        font-size: 1.25rem;
+    }
+    #txt, #tabbarRes{
+        font-size: 1rem;
+    }
+    #skill{
+        font-size: 1.4rem;
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+    #mt{
+        margin-top: 2.5rem;
+        padding-bottom: 3rem;
+    }
+
+    #projectGrid, #workDiv, #pgImages{
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+    #portHeader, #workHeader, #referenceHeader, #pgName, #projectHeader{
+        font-size: 1.4rem;
+        font-weight: 500;
+        
+    }
+    #portText,#pgNormalText{
+        font-size: 1rem;
+    }
+
+    #referenceDiv{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-gap: 2rem;
+    }
+    #companyName{
+        font-size: 1rem;
+        text-align: center;
+    }
+    
+}
+    

@@ -1,0 +1,68 @@
+#nameAnimation{
+    display: block;
+    padding-top: 20px;
+    font-size: 1.563rem;
+    color: #e5e7eb;
+    transform: translateX(-600%);
+    animation: text 0.4s 150ms forwards;
+}
+
+@keyframes text {
+    to{
+        transform: translateX(0);
+    }
+}
+
+
+.about{
+    animation:slideInFromLeft 0.4s  350ms forwards;
+}
+
+.project{
+    animation:slideInFromLeft 0.4s  550ms forwards;
+}
+
+.skills{
+    animation:slideInFromLeft 0.4s  750ms forwards;
+}
+
+.portfolio{
+    animation:slideInFromLeft 0.4s  950ms forwards;
+}
+
+  @keyframes slideInFromLeft {
+    to{
+     transform: translateX(0);
+    }
+}
+
+#workImg{
+    aspect-ratio: 3/2;
+}
+
+#borderAnimation{
+    background-clip: padding-box;
+    background-size: 300% 300% ;
+    animation: gradient 5000ms ease-in-out infinite;
+}
+
+@keyframes gradient {
+    0% {
+      background-position: 0% 55%;
+      background-position-x: 0% 55%;
+      background-position-y: 0% 55%;
+    }
+    50%{
+        background-position: 100% 46%;
+        background-position-x: 100% 46%;
+        background-position-y: 100% 46%;
+    }
+    100% {
+      background-position: 0% 55%;
+        background-position-x: 0% 55%;
+        background-position-y: 0% 55%;
+    }
+
+  }
+
+ 
