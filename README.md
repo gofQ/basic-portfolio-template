@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Basic Portfolio
 
 This portfolio is a simple template that you can use to showcase your work, skills, and experience. By using this template, you can create your own portfolio and use it to build a personal website.
@@ -58,3 +59,4 @@ E-mail: [mail](mailto:abdulkerimtabakoglu@gmail.com)
 
 #### This is my first repository. If you liked this project, please give it a ⭐️!
 
+[MIT](https://choosealicense.com/licenses/mit/)
